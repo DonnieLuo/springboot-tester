@@ -1,0 +1,9 @@
+spring:
+  redis:
+    host: drpandasubs.redis.rds.aliyuncs.com
+    password: Drpandared1s
+    timeout: 10000
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/test
+#    host: localhost
